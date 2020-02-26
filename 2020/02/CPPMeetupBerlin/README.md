@@ -10,7 +10,7 @@
 - [CPM](https://github.com/TheLartians/CPM): Simple and reproducible C++ package management with CMake
 - [Visitor](https://github.com/TheLartians/Visitor): Acyclic visitor with inheritance-aware any type
 - [Glue](https://github.com/TheLartians/Glue): Language agnostic C++ bindings
-- [TypeScriptPP](https://github.com/TheLartians/TypeScriptPP): Example project using CPM and Glue for typesafe C++ scripting with CMake and TypeScript
+- [TypeScriptXX](https://github.com/TheLartians/TypeScriptXX): Example project using CPM and Glue for typesafe C++ scripting with CMake and TypeScript
 - [Maphi App](https://maphi.app): A complex cross-platform App for learning math built by joining C++ and TypeScript
 - [JavaCPP](https://github.com/bytedeco/javacpp): Easy Java bindings for C++
 - [Native Modules](https://reactnative.dev/docs/0.12/native-modules-ios): Official React Native Modules documentation
