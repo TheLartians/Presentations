@@ -2,7 +2,7 @@
 
 ## Presentation
 
-- [Interactive](index.html) (html)
+- [Interactive](interactive/index.html) (html)
 - [Slides](slides.pdf) (pdf)
 
 ## Links
